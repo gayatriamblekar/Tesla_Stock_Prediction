@@ -41,10 +41,12 @@ tensorflow / keras
 Deployment/UI: Streamlit
 
 > 📂 **Project Structure**
-    ├── app.py                       # Streamlit dashboard
-    ├── tesla_stock_prediction.ipynb # Full ML pipeline
-    ├── TSLA.csv                     # Dataset
-    └── README.md                    # Project documentation
+
+├── app.py                       # Streamlit dashboard
+├── tesla_stock_prediction.ipynb # Full ML pipeline
+├── TSLA.csv                     # Dataset
+└── README.md                    # Project documentation
+
 
 > ▶️ **How to Run the Project**
 
