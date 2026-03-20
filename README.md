@@ -1,4 +1,4 @@
-🚀 **Tesla Stock Price Prediction using Deep Learning**
+> 🚀 **Tesla Stock Price Prediction using Deep Learning**
 
 Predicting Tesla stock prices using SimpleRNN and LSTM models with an interactive Streamlit dashboard.
 
@@ -14,7 +14,7 @@ We implemented and compared:
 
 The project also includes a Streamlit web app for real-time predictions and visualization.
 
-🎯 **Objectives**
+> 🎯 **Objectives**
 
 Predict Tesla stock closing prices
 
@@ -24,7 +24,7 @@ Build an end-to-end ML pipeline
 
 Deploy predictions using a user-friendly dashboard
 
-🧠 **Tech Stack**
+> 🧠 **Tech Stack**
 
 Programming Language: Python
 
@@ -40,13 +40,13 @@ tensorflow / keras
 
 Deployment/UI: Streamlit
 
-📂 **Project Structure**
+> 📂 **Project Structure**
     ├── app.py                       # Streamlit dashboard
     ├── tesla_stock_prediction.ipynb # Full ML pipeline
     ├── TSLA.csv                     # Dataset
     └── README.md                    # Project documentation
 
-▶️ **How to Run the Project**
+> ▶️ **How to Run the Project**
 
 1️⃣ Clone the Repository
 
