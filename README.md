@@ -1,44 +1,44 @@
 🚀 Tesla Stock Price Prediction using Deep Learning
 
-    Predicting Tesla stock prices using SimpleRNN and LSTM models with an interactive Streamlit dashboard.
+Predicting Tesla stock prices using SimpleRNN and LSTM models with an interactive Streamlit dashboard.
 
 📌 Project Overview
 
-    This project focuses on building a deep learning-based time series model to predict Tesla stock closing prices using historical data.
+This project focuses on building a deep learning-based time series model to predict Tesla stock closing prices using historical data.
 
-    We implemented and compared:
+We implemented and compared:
 
-      🔹 Simple Recurrent Neural Network (SimpleRNN)
+🔹 Simple Recurrent Neural Network (SimpleRNN)
 
-      🔹 Long Short-Term Memory (LSTM)
+🔹 Long Short-Term Memory (LSTM)
 
-    The project also includes a Streamlit web app for real-time predictions and visualization.
+The project also includes a Streamlit web app for real-time predictions and visualization.
 
 🎯 Objectives
 
-    Predict Tesla stock closing prices
+Predict Tesla stock closing prices
 
-    Compare performance of RNN vs LSTM
+Compare performance of RNN vs LSTM
 
-    Build an end-to-end ML pipeline
+Build an end-to-end ML pipeline
 
-    Deploy predictions using a user-friendly dashboard
+Deploy predictions using a user-friendly dashboard
 
 🧠 Tech Stack
 
-    Programming Language: Python
+Programming Language: Python
 
-    Libraries:
+Libraries:
 
-      pandas, numpy
+pandas, numpy
 
-      matplotlib
+matplotlib
 
-      scikit-learn
+scikit-learn
 
-      tensorflow / keras
+tensorflow / keras
 
-      Deployment/UI: Streamlit
+Deployment/UI: Streamlit
 
 📂 Project Structure
     ├── app.py                       # Streamlit dashboard
