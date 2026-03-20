@@ -2,7 +2,7 @@
 
 Predicting Tesla stock prices using SimpleRNN and LSTM models with an interactive Streamlit dashboard.
 
-📌 **Project Overview**
+> 📌 **Project Overview**
 
 This project focuses on building a deep learning-based time series model to predict Tesla stock closing prices using historical data.
 
