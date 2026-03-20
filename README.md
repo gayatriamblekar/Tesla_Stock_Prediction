@@ -49,12 +49,18 @@ Deployment/UI: Streamlit
 ▶️ How to Run the Project
 
 1️⃣ Clone the Repository
+
           git clone https://github.com/your-username/tesla-stock-prediction.git
           cd tesla-stock-prediction
           
 2️⃣ Install Dependencies
+
           pip install -r requirements.txt
-    3️⃣ Run Jupyter Notebook
+          
+3️⃣ Run Jupyter Notebook
+
           jupyter notebook tesla_stock_prediction.ipynb
-    4️⃣ Run Streamlit App
+          
+4️⃣ Run Streamlit App
+
           streamlit run app.py
